@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pasi Tähkäpää <pasi.tahkapaa@iki.fi>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.3"
+  }
 }
